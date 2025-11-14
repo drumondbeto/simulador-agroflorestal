@@ -1,0 +1,40 @@
+species_common,qty_target,min_spacing_m,shade_pref_0_1_min,shade_pref_0_1_max,water_pref_0_1_min,water_pref_0_1_max,preferred_zone,notes
+cacau,2,3.0,0.5,0.9,0.6,1.0,meio-leste,Preferir meia-sombra; polinização cruzada aumenta pega.
+abacate,2,8.0,0.0,0.5,0.4,0.8,meio,Dois tipos (A/B) recomendável para frutificação.
+romã,1,3.0,0.0,0.4,0.2,0.6,oeste,Sol pleno; tolera seca.
+manga,1,10.0,0.0,0.4,0.3,0.8,oeste,Árvore grande; sol pleno.
+lavanda,3,0.5,0.0,0.3,0.1,0.4,oeste,Solo bem drenado; sol.
+banana,3,3.0,0.2,0.6,0.6,1.0,leste,Gosta de água e matéria orgânica.
+maracujá,2,3.0,0.0,0.5,0.5,0.9,meio-leste,Trepadeira; suporte; algumas cultivares precisam polinização.
+uva,1,2.5,0.0,0.4,0.3,0.6,oeste,Trepadeira; sol; condução em aramado.
+laranja,1,5.0,0.0,0.5,0.4,0.8,meio,Citros; sol; irrigação moderada.
+mexerica,1,5.0,0.0,0.5,0.4,0.8,meio,Citros; similar à laranja.
+pêssego,1,4.0,0.0,0.4,0.3,0.6,oeste,Baixo frio.
+ameixa,1,4.0,0.0,0.4,0.3,0.6,oeste,Cultivar adaptada.
+ingá,1,8.0,0.0,0.6,0.5,1.0,meio,Fixadora de N; sombra rápida.
+mamona,1,1.5,0.0,0.5,0.3,0.7,oeste,Tóxica; cuidado.
+girassol gigante,3,0.8,0.0,0.2,0.3,0.7,oeste,Anual; sol.
+carambola,1,5.0,0.0,0.6,0.4,0.8,meio,Pode frutificar isolada.
+leucophyllum frutescens,1,0.6,0.0,0.4,0.2,0.6,oeste,Chuva de prata (Texas ranger).
+hibiscus mutabilis,1,3.0,0.0,0.6,0.3,0.7,meio,Rosa louca (confederate rose).
+rosa hybrid,1,3.0,0.0,0.5,0.3,0.7,meio,Rosa trepadeira.
+hibisco (para chás),2,1.0,0.0,0.5,0.4,0.8,oeste,H. sabdariffa.
+canela,1,6.0,0.4,0.8,0.5,0.9,meio,Sub-bosque.
+clitoria ternatea,2,1.5,0.0,0.6,0.3,0.7,meio,Trepadeira comestível (flor).
+camomila,3,0.3,0.0,0.5,0.2,0.6,oeste,Anual.
+ormosia arborea,1,8.0,0.0,0.6,0.3,0.7,meio,Olho de cabra (árvore).
+mucuna pruriens,2,1.0,0.0,0.6,0.4,0.9,meio-leste,Olho de boi (adubadeira).
+neve da montanha (euphorbia leucocephala),1,2.0,0.0,0.6,0.3,0.7,oeste,Ornamental.
+abóbora,2,2.0,0.0,0.5,0.4,0.8,meio,Rasteira.
+tomate,3,0.6,0.0,0.4,0.3,0.7,oeste,Tutorado.
+cana-de-açúcar,2,1.3,0.0,0.5,0.5,1.0,leste,Linhas.
+mandioca,2,1.5,0.0,0.5,0.3,0.7,oeste,Rústica.
+castanheira-do-para,1,15.0,0.0,0.6,0.5,1.0,leste,Muito grande; baixa chance de frutificar isolada.
+noz da macadâmia,2,8.0,0.0,0.5,0.4,0.8,meio,Ideal 2+ para polinização.
+oliveira,2,6.0,0.0,0.4,0.2,0.5,oeste,Muitas cultivares requerem polinizador.
+cravo da india,1,7.0,0.3,0.7,0.6,1.0,meio-leste,Syzygium aromaticum.
+jambo,1,7.0,0.0,0.6,0.5,1.0,leste,Syzygium malaccense.
+jambú,3,0.3,0.0,0.6,0.4,0.8,meio,Acmella oleracea.
+noz moscada,2,6.0,0.4,0.8,0.6,1.0,meio-leste,Myristica fragrans; macho/fêmea.
+pepino-japones,3,0.5,0.0,0.5,0.4,0.8,meio,Tutor; ciclo curto.
+dioclea violacea,1,1.5,0.0,0.6,0.3,0.7,meio,Olho de boi (trepadeira nativa).

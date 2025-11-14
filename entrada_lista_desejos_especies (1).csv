@@ -1,0 +1,42 @@
+species_common,qty_target,min_spacing_m,shade_pref_0_1_min,shade_pref_0_1_max,water_pref_0_1_min,water_pref_0_1_max,preferred_zone,notes
+cacau,2,3.0,0.5,0.9,0.6,1.0,meio-leste,Preferir meia-sombra; polinização cruzada aumenta pega.
+abacate,2,8.0,0.0,0.5,0.4,0.8,meio,Dois tipos (A/B) recomendável para frutificação.
+romã,1,3.0,0.0,0.4,0.2,0.6,oeste,Sol pleno; tolera seca.
+manga,1,10.0,0.0,0.4,0.3,0.8,oeste,Árvore grande; sol pleno.
+lavanda,3,0.5,0.0,0.3,0.1,0.4,oeste,Solo bem drenado; sol.
+banana,3,3.0,0.2,0.6,0.6,1.0,leste,Gosta de água e matéria orgânica.
+maracujá,2,3.0,0.0,0.5,0.5,0.9,meio-leste,Trepadeira; suporte; algumas cultivares precisam polinização.
+uva,1,2.5,0.0,0.4,0.3,0.6,oeste,Trepadeira; sol; condução em aramado.
+laranja,1,5.0,0.0,0.5,0.4,0.8,meio,Citros; sol; irrigação moderada.
+mexerica,1,5.0,0.0,0.5,0.4,0.8,meio,Citros; similar à laranja.
+pêssego,1,4.0,0.0,0.4,0.3,0.6,oeste,Exigir cultivares de baixo frio em BH.
+ameixa,1,4.0,0.0,0.4,0.3,0.6,oeste,Preferir cultivares adaptadas ao clima.
+ingá,1,8.0,0.0,0.6,0.5,1.0,meio,Fixadora de N; sombra rápida.
+mamona,1,1.5,0.0,0.5,0.3,0.7,oeste,Tóxica; manter longe de crianças/animais.
+girassol gigante,3,0.8,0.0,0.2,0.3,0.7,oeste,Anual; sol forte.
+carambola,1,5.0,0.0,0.6,0.4,0.8,meio,Pode frutificar com 1 planta.
+chuva de prata (eragrostis spectabilis),1,0.6,0.0,0.4,0.2,0.6,oeste,Gramínea ornamental (interpretação 1).
+chuva de prata (dichondra argentea),1,0.3,0.0,0.6,0.2,0.6,oeste,Forração pendente (interpretação 2).
+rosa-louca (portulaca grandiflora),1,0.3,0.0,0.3,0.1,0.4,oeste,Ambíguo; opção 1 (onze-horas).
+rosa-louca (catharanthus roseus),1,0.4,0.0,0.5,0.2,0.6,meio,Ambíguo; opção 2 (vinca).
+rosinha trepadeira (antigonon leptopus),1,3.0,0.0,0.6,0.3,0.7,meio,Trepadeira; suporte.
+rosinha trepadeira (rosa banksiae),1,3.0,0.0,0.5,0.3,0.7,meio,Trepadeira; opção 2.
+hibisco (para chás),2,1.0,0.0,0.5,0.4,0.8,oeste,Hibiscus sabdariffa (vinagreira).
+canela,1,6.0,0.4,0.8,0.5,0.9,meio,Cinnamomum verum; meia-sombra quando jovem.
+clitoria ternatea,2,1.5,0.0,0.6,0.3,0.7,meio,Trepadeira comestível (flor).
+camomila,3,0.3,0.0,0.5,0.2,0.6,oeste,Anual/curto ciclo.
+olho de cabra (ormosia arborea),1,8.0,0.0,0.6,0.3,0.7,meio,Árvore nativa ornamental; sementes tóxicas.
+olho de boi (mucuna pruriens),2,1.0,0.0,0.6,0.4,0.9,meio-leste,Trepadeira adubadeira (verde).
+neve da montanha (euphorbia leucocephala),1,2.0,0.0,0.6,0.3,0.7,oeste,Arbusto ornamental.
+abóbora,2,2.0,0.0,0.5,0.4,0.8,meio,Rasteira; precisa espaço e sol.
+tomate,3,0.6,0.0,0.4,0.3,0.7,oeste,Tutorado; sol.
+cana-de-açúcar,2,1.3,0.0,0.5,0.5,1.0,leste,Linhas; demanda água.
+mandioca,2,1.5,0.0,0.5,0.3,0.7,oeste,Rústica.
+castanheira-do-para,1,15.0,0.0,0.6,0.5,1.0,leste,Muito grande; baixa chance de frutificar isolada.
+noz da macadâmia,2,8.0,0.0,0.5,0.4,0.8,meio,Ideal 2+ para polinização.
+oliveira,2,6.0,0.0,0.4,0.2,0.5,oeste,Muitas cultivares requerem polinizador.
+cravo da india,1,7.0,0.3,0.7,0.6,1.0,meio-leste,"Syzygium aromaticum; clima úmido, meia-sombra jovem."
+jambo,1,7.0,0.0,0.6,0.5,1.0,leste,Syzygium malaccense; gosta de umidade.
+jambú,3,0.3,0.0,0.6,0.4,0.8,meio,Acmella oleracea; hortaliça.
+noz moscada,2,6.0,0.4,0.8,0.6,1.0,meio-leste,Myristica fragrans; dióica (precisa macho/fêmea).
+pepino-japones,3,0.5,0.0,0.5,0.4,0.8,meio,Tutor; ciclo curto.
